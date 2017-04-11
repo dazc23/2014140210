@@ -1,0 +1,6 @@
+C:\Users\Diego\Documents\Visual Studio 2015\Projects\2014140210\Prueba\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\Diego\Documents\Visual Studio 2015\Projects\2014140210\Prueba\Prueba\bin\Debug\Prueba.exe
+C:\Users\Diego\Documents\Visual Studio 2015\Projects\2014140210\Prueba\Prueba\bin\Debug\Prueba.pdb
+C:\Users\Diego\Documents\Visual Studio 2015\Projects\2014140210\Prueba\Prueba\obj\Debug\Prueba.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\Visual Studio 2015\Projects\2014140210\Prueba\Prueba\obj\Debug\Prueba.exe
+C:\Users\Diego\Documents\Visual Studio 2015\Projects\2014140210\Prueba\Prueba\obj\Debug\Prueba.pdb
